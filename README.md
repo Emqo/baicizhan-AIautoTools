@@ -60,7 +60,7 @@ python -m uiautomator2 init
 4. 运行脚本：
 
    ```
-   python main.py
+   python AiAutotools.py
    ```
 
    程序将自动执行：
